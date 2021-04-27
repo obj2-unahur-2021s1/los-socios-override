@@ -16,17 +16,17 @@ Una conocida empresa de envíos a domicilios en bicicleta nos pidió elaborar un
 
 Por lo que nos contaron, un/a cliente promedio de la aplicación da propina según el estado de ánimo en el que se encuentre:
 
-* :angry: si está enojado/a, no da nada de propina,
-* :smiley: si está feliz, le deja como propina el 25% de lo que salió el pedido,
-* :neutral_face: si está indiferente, deja como propina lo que tenga en el bolsillo,
-* :mask: si está resfriado/a, lo invade el sentimiento de culpa y le deja de propina el 100% de lo que salió el pedido.
+* :angry: si está **enojado/a**, no da nada de propina,
+* :smiley: si está **feliz**, le deja como propina el 25% de lo que salió el pedido,
+* :neutral_face: si está **indiferente**, deja como propina lo que tenga en el bolsillo,
+* :mask: si está **resfriado/a**, le invade el sentimiento de culpa y le deja de propina el 100% de lo que salió el pedido.
 
 Además del estado de ánimo, la zona donde vive el o la clienta puede influir en la propina que le deja a la persona que le hace la entrega. Por el momento solo está disponible en unos pocos barrios y no es necesario contemplar la posibilidad de agregar nuevos. Los que están disponibles ahora son:
 
-* :rose: Las Rosas: agrega un plus fijo de $50 a la propina,
-* :mouse: Las Lauchas: reduce a la mitad la propina,
-* :money_with_wings: Barrio Verde: fija un mínimo de $200 para la propina,
-* :cityscape: Las Torres: no modifica en nada a la propina.
+* :rose: **Las Rosas**: agrega un plus fijo de $50 a la propina,
+* :mouse: **Las Lauchas**: reduce a la mitad la propina,
+* :money_with_wings: **Barrio Verde**: fija un mínimo de $200 para la propina,
+* :cityscape: **Las Torres**: no modifica en nada a la propina.
 
 En todos los casos, las modificaciones que puedan surgir se aplican sobre el valor que resulta del ánimo. Por ejemplo, una clienta resfriada de barrio Las Lauchas dejaría $500 de propina para un pedido de $1000 ($1000 que dejaría por estar resfriada, dividido a la mitad por lo que indica su barrio).
 
