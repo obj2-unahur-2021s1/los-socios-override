@@ -23,10 +23,10 @@ Por lo que nos contaron, un/a cliente promedio de la aplicación da propina seg�
 
 Además del estado de ánimo, la zona donde vive el o la clienta puede influir en la propina que le deja a la persona que le hace la entrega. Por el momento solo está disponible en unos pocos barrios y no es necesario contemplar la posibilidad de agregar nuevos. Los que están disponibles ahora son:
 
-* :rose: **Las Rosas**: agrega un plus fijo de $50 a la propina,
-* :mouse: **Las Lauchas**: reduce a la mitad la propina,
-* :money_with_wings: **Barrio Verde**: fija un mínimo de $200 para la propina,
-* :cityscape: **Las Torres**: no modifica en nada a la propina.
+* **Las Rosas** :rose:: agrega un plus fijo de $50 a la propina,
+* **Las Lauchas** :mouse:: reduce a la mitad la propina,
+* **Barrio Verde** :money_with_wings:: fija un mínimo de $200 para la propina,
+* **Las Torres** :cityscape:: no modifica en nada a la propina.
 
 En todos los casos, las modificaciones que puedan surgir se aplican sobre el valor que resulta del ánimo. Por ejemplo, una clienta resfriada de barrio Las Lauchas dejaría $500 de propina para un pedido de $1000 ($1000 que dejaría por estar resfriada, dividido a la mitad por lo que indica su barrio).
 
