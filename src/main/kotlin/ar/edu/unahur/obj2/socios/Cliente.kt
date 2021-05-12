@@ -15,6 +15,7 @@ class Cliente(var montoPedido: Int, var bolsillo: Int, var unHumor: Humor, var u
     fun darPropina(): Int{
         return unBarrio.propinaPorBarrio(propinaPorHumor)
     }
+
 }
 
 //////////////////////////////////////////////////
